@@ -1,1 +1,18 @@
-{}
+{
+    "asd": {
+        "projectName": "asd",
+        "description": "asd",
+        "type": "community",
+        "author": "tatashidayat",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/tatashidayat/design-tokens",
+        "githubUri": "https://github.com/tatashidayat/design-tokens",
+        "license": "apache-2.0",
+        "lastUpdated": "1719548656212",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
